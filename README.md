@@ -8,6 +8,14 @@
 
 To run the project, use the following command:
 
+To istall Chakra Ui
+```bash
+npm i @chakra-ui/react@v2.10.3 @emotion/react @emotion/styled framer-motion
+```
+```bash
+npm i @chakra-ui/icons@v2.1.1
+```
+
 Setup .env file
 ```bash 
 MONGO_URI=your_mongo_uri
