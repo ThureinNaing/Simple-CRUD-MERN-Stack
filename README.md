@@ -8,7 +8,7 @@
 
 To run the project, use the following command:
 
-To istall Chakra Ui
+To install Chakra Ui 
 ```bash
 npm i @chakra-ui/react@v2.10.3 @emotion/react @emotion/styled framer-motion
 ```
